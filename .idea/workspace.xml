@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="da98f500-5114-442e-bc4f-aa5dd6abec30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twitter.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twitter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twittervotes" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twittervotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/chat/avatar.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/chat/avatar.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/chat/chat" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/chat/chat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,20 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/socialpoll/twittervotes/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twitter.go">
+        <entry file="file://$PROJECT_DIR$/chapter1/chat/avatar.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="562">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -73,7 +63,6 @@
         <option value="$PROJECT_DIR$/chapter1/chat/client.go" />
         <option value="$PROJECT_DIR$/chapter1/chat/auth.go" />
         <option value="$PROJECT_DIR$/chapter1/chat/room.go" />
-        <option value="$PROJECT_DIR$/chapter1/chat/avatar.go" />
         <option value="$PROJECT_DIR$/chapter1/chat/main.go" />
         <option value="$PROJECT_DIR$/chapter4/sprinkle/main.go" />
         <option value="$PROJECT_DIR$/chapter4/domainify/main.go" />
@@ -110,6 +99,7 @@
         <option value="$PROJECT_DIR$/chapter8/backup/cmds/backupd/main.go" />
         <option value="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/main.go" />
         <option value="$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twitter.go" />
+        <option value="$PROJECT_DIR$/chapter1/chat/avatar.go" />
       </list>
     </option>
   </component>
@@ -148,13 +138,13 @@
             <path>
               <item name="goblueprints" type="b2602c69:ProjectViewProjectNode" />
               <item name="goblueprints" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="goblueprints" type="b2602c69:ProjectViewProjectNode" />
               <item name="goblueprints" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-              <item name="socialpoll" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,8 +180,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-347" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24387646" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24653888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -204,7 +195,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.280829" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21139896" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -220,23 +211,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter4/coolify/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#14#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/thesaurus/thesaurus.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/thesaurus/bighuge.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -498,13 +472,6 @@
     <entry file="file://$PROJECT_DIR$/chapter8/backup/cmds/backupd/test2/one.txt" />
     <entry file="file://$PROJECT_DIR$/chapter8/backup/cmds/backupd/test/test.txt" />
     <entry file="file://$PROJECT_DIR$/chapter8/backup/cmds/backupd/test/aiueo.txt" />
-    <entry file="file://$PROJECT_DIR$/chapter1/chat/avatar.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter8/backup/cmds/backup/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="923">
@@ -561,6 +528,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twitter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="33" column="31" selection-start-line="33" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/socialpoll/twittervotes/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -568,10 +542,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5/socialpoll/twittervotes/twitter.go">
+    <entry file="file://$PROJECT_DIR$/chapter1/chat/auth.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="76">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/chat/avatar_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/chat/avatar.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
         </state>
       </provider>
     </entry>
